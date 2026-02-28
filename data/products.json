@@ -1,0 +1,62 @@
+[
+  {
+    "id": "prod_1",
+    "title": "Minimalist Ceramic Ribbed Vase",
+    "description": "A beautifully crafted matte white ceramic vase. The ribbed texture provides a chic, minimalist aesthetic. Perfect for dried pampas grass, eucalyptus, or fresh floral arrangements. Elevate your living room or entryway decor instantly.",
+    "price": "24.99",
+    "image": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?q=80&w=800&auto=format&fit=crop",
+    "category": "decor",
+    "affiliateLink": "https://amazon.com/dp/example1",
+    "features": ["Matte white ceramic finish", "Ribbed texture design", "Waterproof interior", "Dimensions: 8\" x 4\""]
+  },
+  {
+    "id": "prod_2",
+    "title": "Boho Woven Wall Hanging",
+    "description": "Large macrame wall hanging tapestry. Handwoven cotton cord adds texture and warmth to your bedroom or living room. A perfect focal point for a cozy, bohemian-inspired space.",
+    "price": "35.00",
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=800&auto=format&fit=crop",
+    "category": "wall-art",
+    "affiliateLink": "https://amazon.com/dp/example2",
+    "features": ["100% natural cotton cord", "Handwoven design", "Includes wooden dowel", "Dimensions: 35\" x 16\""]
+  },
+  {
+    "id": "prod_3",
+    "title": "Cozy Chunky Knit Blanket",
+    "description": "Ultra-soft and warm chunky knit throw blanket. Adds incredible texture and a welcoming, cozy feel to any sofa or bed. Made from premium, hypoallergenic chenille yarn.",
+    "price": "49.99",
+    "image": "https://images.unsplash.com/photo-1580136652414-b8b284144ad7?q=80&w=800&auto=format&fit=crop",
+    "category": "textiles",
+    "affiliateLink": "https://amazon.com/dp/example3",
+    "features": ["Premium chenille yarn", "Hypoallergenic", "No shedding", "Dimensions: 50\" x 60\""]
+  },
+  {
+    "id": "prod_4",
+    "title": "Modern Arched Wall Mirror",
+    "description": "Elegant arched wall mirror with a thin gold-finish metal frame. Creates an illusion of more space and light, ideal for entryways, bathrooms, or above a dresser.",
+    "price": "89.00",
+    "image": "https://images.unsplash.com/photo-1618220179428-f274a87c10b2?q=80&w=800&auto=format&fit=crop",
+    "category": "mirrors",
+    "affiliateLink": "https://amazon.com/dp/example4",
+    "features": ["Shatterproof glass", "Thin aluminum frame", "Easy wall mount", "Dimensions: 36\" x 24\""]
+  },
+  {
+    "id": "prod_5",
+    "title": "Natural Rattan Table Lamp",
+    "description": "Bring a touch of nature indoors with this handwoven rattan table lamp. Emits a soft, warm glow perfect for creating a relaxing atmosphere on bedside tables or side tables.",
+    "price": "42.50",
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?q=80&w=800&auto=format&fit=crop",
+    "category": "lighting",
+    "affiliateLink": "https://amazon.com/dp/example5",
+    "features": ["Handwoven rattan shade", "Solid wood base", "Includes warm LED bulb", "Height: 14\""]
+  },
+  {
+    "id": "prod_6",
+    "title": "Geometric Neutral Area Rug",
+    "description": "Soft beige area rug with a subtle geometric pattern. Woven for durability and comfort underfoot. Complements minimalist and modern boho interiors flawlessly.",
+    "price": "120.00",
+    "image": "https://images.unsplash.com/photo-1558904541-efa843a96f1d?q=80&w=800&auto=format&fit=crop",
+    "category": "textiles",
+    "affiliateLink": "https://amazon.com/dp/example6",
+    "features": ["Stain-resistant fibers", "Low pile", "Subtle high-low texture", "Dimensions: 5' x 8'"]
+  }
+]
