@@ -148,7 +148,7 @@ p {
 }
 
 .logo-img {
-  height: 30px;
+  height: 25px;
   /* Adjust height based on actual logo proportion */
   width: auto;
   display: block;
@@ -786,5 +786,6 @@ p {
   outline: none;
   border-color: var(--color-accent);
 }
+
 
 
