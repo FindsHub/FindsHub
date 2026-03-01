@@ -1,128 +1,45 @@
 [
   {
-    "id": "prod_1",
-    "title": "Minimalist Ceramic Ribbed Vase",
-    "description": "A beautifully crafted matte white ceramic vase. The ribbed texture provides a chic, minimalist aesthetic. Perfect for dried pampas grass, eucalyptus, or fresh floral arrangements. Elevate your living room or entryway decor instantly.",
-    "priceUSD": 5,
-    "priceINR": 449,
+    "id": "prod_1772377333495",
+    "title": "Hallstatt Self Adhesive Bathroom Shelf",
+    "priceUSD": 7.77,
+    "priceINR": 645,
+    "category": "textiles",
     "images": [
-      "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1612222869049-d8ec83637a3c?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1622372736562-b9e735165ca6?q=80&w=800&auto=format&fit=crop"
+      "[assets/images/trey.png]",
+      "[assets/images/trey2.png]",
+      "[assets/images/trey3.png]"
     ],
+    "affiliateLink": "https://amzn.to/4aZWDCE",
+    "topDeal": true,
+    "description": "[ VERSATILE STORAGE ]: Keep your shower essentials tidy and accessible. Beyond the bathroom, this versatile caddy is ideal for use in kitchens, garages, and any other space requiring organized storage. Use it to store spices in the kitchen, cleaning supplies in the laundry room, or tools and gadgets in the garage. Its adaptable design makes it a practical solution for decluttering and organizing any area in your home.\n[ DURABLE AND RUSTPROOF ] : Made from high-quality aluminum, these organizers are durable and rustproof, ensuring long-lasting use in your bathroom. Their robust construction withstands moisture and wear, making them perfect for humid environments. Enjoy the peace of mind that comes with knowing your shower caddy will maintain its sleek appearance and functionality over time, providing a reliable storage solution that resists rust and corrosion.\n[ STYLISH DESIGN ] : Available in sleek elegant black, these caddies enhance both functionality and style in your bathroom. The modern aesthetic complements any decor, adding a touch of elegance while keeping your essentials organized.\n[ Suitable Walls & Easy Installation ] : The shower storage suitable for smooth and sturdy surfaces like tiles, marble, glass, wooden walls, solid metal walls, but not suitable for uneven surfaces like painted walls. With its elegant design, this adhesive shower caddy not only for shower essentials organization and storage, but also for bathroom decor, home decor and kitchen decor. The shower shelf for inside shower is easy to install, taking all 5 mins without any tools, no damage to the walls\n[ EASY INSTALLATION ] : No drilling required, making installation a breeze and protecting your bathroom surfaces. The adhesive mounts ensure a secure hold without damaging walls, allowing for a quick and hassle-free setup.",
+    "features": [
+      "Mounting Type :\tAdhesive",
+      "Room Type :\tBathroom",
+      "Shelf Type :\tVanity Shelf",
+      "Number Of Shelves: \t2",
+      "Product Features :\tMoisture Resistant",
+      "Number of Items :\t2"
+    ]
+  },
+  {
+    "id": "prod_1772373237038",
+    "title": "Trance Cotton Feel Terry Ultra Soft Waterproof Mattress Protector",
+    "priceUSD": 7.54,
+    "priceINR": 626,
     "category": "decor",
-    "affiliateLink": "https://amazon.com/dp/example1",
-    "features": [
-      "Matte white ceramic finish",
-      "Ribbed texture design",
-      "Waterproof interior",
-      "Dimensions: 8\" x 4\""
-    ],
-    "topDeal": true
-  },
-  {
-    "id": "prod_2",
-    "title": "Boho Woven Wall Hanging",
-    "description": "Large macrame wall hanging tapestry. Handwoven cotton cord adds texture and warmth to your bedroom or living room. A perfect focal point for a cozy, bohemian-inspired space.",
-    "priceUSD": 11,
-    "priceINR": 899,
     "images": [
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1534349762230-e0cadf78f5da?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1526402375121-70979e2c6e61?q=80&w=800&auto=format&fit=crop"
+      "[assets/images/mattress.png]",
+      "[assets/images/mattress2.png]",
+      "[assets/images/mattress3.png]"
     ],
-    "category": "wall-art",
-    "affiliateLink": "https://amazon.com/dp/example2",
+    "affiliateLink": "https://amzn.to/3Nc2X22",
+    "topDeal": true,
+    "description": "Package Contents: 1N of Fitted Style Mattress Protector. Size: Fits 78 x 72 inch | 6.5 x 6 feet Bed /Mattress of all thickness upto 10 inch.\nMattress Protector Build – Our Mattress Cover is made up of Cotton feel Terry Which is soft and Noiseless on top, with TPU back coating makes 100% Waterproof. Trance Bed Covers are 360 Degree Fitted Style with Best Lycra Stretch Fabric with Elasticated Border all around gives Perfect Snug Fit, Easy Insert and Removal",
     "features": [
-      "100% natural cotton cord",
-      "Handwoven design",
-      "Includes wooden dowel",
-      "Dimensions: 35\" x 16\""
-    ],
-    "topDeal": true
-  },
-  {
-    "id": "prod_3",
-    "title": "Cozy Chunky Knit Blanket",
-    "description": "Ultra-soft and warm chunky knit throw blanket. Adds incredible texture and a welcoming, cozy feel to any sofa or bed. Made from premium, hypoallergenic chenille yarn.",
-    "priceUSD": 18,
-    "priceINR": 1499,
-    "images": [
-      "https://images.unsplash.com/photo-1580136652414-b8b284144ad7?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1588629002246-2f1fdeab85eb?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?q=80&w=800&auto=format&fit=crop"
-    ],
-    "category": "textiles",
-    "affiliateLink": "https://amazon.com/dp/example3",
-    "features": [
-      "Premium chenille yarn",
-      "Hypoallergenic",
-      "No shedding",
-      "Dimensions: 50\" x 60\""
-    ],
-    "topDeal": false
-  },
-  {
-    "id": "prod_4",
-    "title": "Modern Arched Wall Mirror",
-    "description": "Elegant arched wall mirror with a thin gold-finish metal frame. Creates an illusion of more space and light, ideal for entryways, bathrooms, or above a dresser.",
-    "priceUSD": 29,
-    "priceINR": 2400,
-    "images": [
-      "https://images.unsplash.com/photo-1618220179428-f274a87c10b2?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1620664878572-c04b4cdea026?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1584344799052-a42e55ef9c04?q=80&w=800&auto=format&fit=crop"
-    ],
-    "category": "mirrors",
-    "affiliateLink": "https://amazon.com/dp/example4",
-    "features": [
-      "Shatterproof glass",
-      "Thin aluminum frame",
-      "Easy wall mount",
-      "Dimensions: 36\" x 24\""
-    ],
-    "topDeal": false
-  },
-  {
-    "id": "prod_5",
-    "title": "Natural Rattan Table Lamp",
-    "description": "Bring a touch of nature indoors with this handwoven rattan table lamp. Emits a soft, warm glow perfect for creating a relaxing atmosphere on bedside tables or side tables.",
-    "priceUSD": 12,
-    "priceINR": 999,
-    "images": [
-      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1507726420169-08dc80118357?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1523992019460-3af7056feaba?q=80&w=800&auto=format&fit=crop"
-    ],
-    "category": "lighting",
-    "affiliateLink": "https://amazon.com/dp/example5",
-    "features": [
-      "Handwoven rattan shade",
-      "Solid wood base",
-      "Includes warm LED bulb",
-      "Height: 14\""
-    ],
-    "topDeal": true
-  },
-  {
-    "id": "prod_6",
-    "title": "Geometric Neutral Area Rug",
-    "description": "Soft beige area rug with a subtle geometric pattern. Woven for durability and comfort underfoot. Complements minimalist and modern boho interiors flawlessly.",
-    "priceUSD": 35,
-    "priceINR": 2899,
-    "images": [
-      "https://images.unsplash.com/photo-1558904541-efa843a96f1d?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600166898405-da9535204843?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600607686527-6fb886090705?q=80&w=800&auto=format&fit=crop"
-    ],
-    "category": "textiles",
-    "affiliateLink": "https://amazon.com/dp/example6",
-    "features": [
-      "Stain-resistant fibers",
-      "Low pile",
-      "Subtle high-low texture",
-      "Dimensions: 5' x 8'"
-    ],
-    "topDeal": false
+      "Breathable 100% Waterproof Terry Fabric",
+      "Fitted Style -Elasticated on All arround edges for firm holding and fit",
+      "Make in India"
+    ]
   }
 ]
