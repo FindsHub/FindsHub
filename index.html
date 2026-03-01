@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="p:domain_verify" content="c4943d2a1914cc17c0cc1a32157d0cff"/>
@@ -12,6 +13,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
     <!-- Header & Navigation -->
     <header class="header">
@@ -39,18 +41,62 @@
             </div>
         </section>
 
-        <!-- Featured Products -->
-        <section class="container mt-xxl mb-lg">
-            <div class="section-header">
-                <h2>Featured Finds</h2>
-                <a href="categories.html" class="view-all">View all &rarr;</a>
-            </div>
-            
-            <div class="product-grid" id="featuredGrid">
-                <!-- Loading skeleton or empty state -->
-                <div class="loading-state">Loading beautiful finds...</div>
-            </div>
-        </section>
+        <!-- Featured Products Carousels -->
+        <div class="homepage-sections mt-xxl mb-lg">
+
+            <!-- Top Deals -->
+            <section class="container pb-lg">
+                <div class="section-header">
+                    <h2>🔥 Top Deals</h2>
+                    <a href="categories.html" class="view-all">View all &rarr;</a>
+                </div>
+                <div class="carousel-container">
+                    <div class="product-carousel" id="topDealsCarosuel">
+                        <!-- Loading skeleton -->
+                        <div class="loading-state">Loading deals...</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Under ₹499 -->
+            <section class="container pb-lg">
+                <div class="section-header">
+                    <h2>Under ₹499</h2>
+                    <a href="categories.html?maxPrice=499" class="view-all">Shop budget &rarr;</a>
+                </div>
+                <div class="carousel-container">
+                    <div class="product-carousel" id="under499Carousel">
+                        <div class="loading-state">Loading budget finds...</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Under ₹999 -->
+            <section class="container pb-lg">
+                <div class="section-header">
+                    <h2>Under ₹999</h2>
+                    <a href="categories.html?maxPrice=999" class="view-all">Shop aesthetic &rarr;</a>
+                </div>
+                <div class="carousel-container">
+                    <div class="product-carousel" id="under999Carousel">
+                        <div class="loading-state">Loading...</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Premium Picks -->
+            <section class="container pb-lg">
+                <div class="section-header">
+                    <h2>Premium Picks</h2>
+                    <a href="categories.html?minPrice=1000" class="view-all">Shop luxury &rarr;</a>
+                </div>
+                <div class="carousel-container">
+                    <div class="product-carousel" id="premiumCarousel">
+                        <div class="loading-state">Loading luxury finds...</div>
+                    </div>
+                </div>
+            </section>
+        </div>
     </main>
 
     <!-- Footer -->
@@ -69,5 +115,6 @@
     <!-- JS -->
     <script src="assets/js/app.js"></script>
 </body>
+
 </html>
 
