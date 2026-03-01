@@ -143,9 +143,15 @@ p {
 }
 
 .logo {
-  font-size: 1.5rem;
-  font-weight: 600;
-  letter-spacing: -0.5px;
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  height: 40px;
+  /* Adjust height based on actual logo proportion */
+  width: auto;
+  display: block;
 }
 
 .nav-links {
@@ -780,3 +786,4 @@ p {
   outline: none;
   border-color: var(--color-accent);
 }
+
