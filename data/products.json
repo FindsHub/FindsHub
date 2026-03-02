@@ -1,14 +1,95 @@
 [
   {
+    "id": "prod_1772435205913",
+    "title": "Livin'luxe Set of 3 Peacock Lotus Palace 3 Panel Wall Art",
+    "priceUSD": 27.69,
+    "priceINR": 2298,
+    "category": "wall-art",
+    "images": [
+      "assets/images/wallart.jp",
+      "assets/images/wallart2.jpg",
+      "assets/images/wallart3.jpg"
+    ],
+    "affiliateLink": "https://amzn.to/4rGB9lp",
+    "topDeal": true,
+    "description": "Premium 3-Panel Set – Beautiful peacock and lotus design across three panels for an elegant wall display. Vibrant & Durable Print – High-definition printing ensures rich colors and long-lasting quality.",
+    "features": [
+      "Frame Type :\tFramed",
+      "Mounting Type :\tWall Mount",
+      "Is Framed :\tYes"
+    ]
+  },
+  {
+    "id": "prod_1772434454337",
+    "title": "Set of 3 LED Pillar Candles with Acrylic Glass Holders",
+    "priceUSD": 10.83,
+    "priceINR": 899,
+    "category": "decor",
+    "images": [
+      "assets/images/canddle.jpg",
+      "assets/images/canddle2.jpg",
+      "assets/images/canddle3.jpg"
+    ],
+    "affiliateLink": "https://amzn.to/4u8Iigc",
+    "topDeal": true,
+    "description": "PREMIUM ACRYLIC GLASS WITH REAL WAX LOOK – Designed with a real wax-look candle body enclosed in a transparent acrylic glass cylindrical holder, these LED candles offer a luxury glass-like appearance while being lightweight, unbreakable, and safe. A perfect blend of elegance and durability for modern and traditional décor.",
+    "features": [
+      "Lighting Method :\tLED",
+      "Control Method :\tPush Button",
+      "Water Resistance Level :\t    Water Resistant",
+      "Efficiency :\t100% efficient"
+    ]
+  },
+  {
+    "id": "prod_1772434145890",
+    "title": "FERA Waterproof Aluminium Up Down Led Wall Lamp",
+    "priceUSD": 3.57,
+    "priceINR": 296,
+    "category": "decor",
+    "images": [
+      "assets/images/led.jpg",
+      "assets/images/led2.jpg"
+      "assets/images/led3.jpg"
+    ],
+    "affiliateLink": "https://amzn.to/4cToQh0",
+    "topDeal": true,
+    "description": "VERSATILE LIGHTING: This waterproof up down wall lamp features 4 Warm White LED rays that can be installed up and down to direct light where needed both indoors and outdoors.",
+    "features": [
+      "Water Resistance Level :\tWaterproof",
+      "Efficiency :\tHigh",
+      "Light Source :\tLED",
+      "Number of Lights :\t4"
+    ]
+  },
+  {
+    "id": "prod_1772432913852",
+    "title": "Passionate Lover Hugging Couple Figure",
+    "priceUSD": 8.8,
+    "priceINR": 730,
+    "category": "decor",
+    "images": [
+      "assets/images/figure.png",
+      "assets/images/figure2.png",
+      "assets/images/figure3.png"
+    ],
+    "affiliateLink": "https://amzn.to/4b412Vf",
+    "topDeal": true,
+    "description": "【Fine Craftsmanship】 - This Set is excellent craftsmanship, elegant and exquisite.\n【Great Decor】- It makes a great display for love appreciation events and a perfect gift for your loved ones",
+    "features": [
+      "Product Features :\thandmade",
+      "Are Batteries Required :\tNo"
+    ]
+  },
+  {
     "id": "prod_1772377333495",
     "title": "Hallstatt Self Adhesive Bathroom Shelf",
     "priceUSD": 7.77,
     "priceINR": 645,
     "category": "textiles",
     "images": [
-      [assets/images/trey.png],
-      [assets/images/trey2.png],
-      [assets/images/trey3.png]
+      "assets/images/trey.png",
+      "assets/images/trey2.png",
+      "assets/images/trey3.png"
     ],
     "affiliateLink": "https://amzn.to/4aZWDCE",
     "topDeal": true,
@@ -29,9 +110,9 @@
     "priceINR": 626,
     "category": "decor",
     "images": [
-      [assets/images/mattress.png],
-      [assets/images/mattress2.png],
-      [assets/images/mattress3.png]
+      "assets/images/mattress.png",
+      "assets/images/mattress2.png",
+      "assets/images/mattress3.png"
     ],
     "affiliateLink": "https://amzn.to/3Nc2X22",
     "topDeal": true,
@@ -43,4 +124,3 @@
     ]
   }
 ]
-
