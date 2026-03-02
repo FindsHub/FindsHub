@@ -6,9 +6,9 @@
     "priceINR": 2298,
     "category": "wall-art",
     "images": [
-      "assets/images/wallart.jpg",
-      "assets/images/wallart2.jpg",
-      "assets/images/wallart3.jpg"
+      "assets/images/wallart.png",
+      "assets/images/wallart2.png",
+      "assets/images/wallart3.png"
     ],
     "affiliateLink": "https://amzn.to/4rGB9lp",
     "topDeal": true,
@@ -26,9 +26,9 @@
     "priceINR": 899,
     "category": "decor",
     "images": [
-      "assets/images/canddle.jpg",
-      "assets/images/canddle2.jpg",
-      "assets/images/canddle3.jpg"
+      "assets/images/canddle.png",
+      "assets/images/canddle2.png",
+      "assets/images/canddle3.png"
     ],
     "affiliateLink": "https://amzn.to/4u8Iigc",
     "topDeal": true,
@@ -47,9 +47,9 @@
     "priceINR": 296,
     "category": "decor",
     "images": [
-      "assets/images/led.jpg",
-      "assets/images/led2.jpg",
-      "assets/images/led3.jpg"
+      "assets/images/led.png",
+      "assets/images/led2.png",
+      "assets/images/led3.png"
     ],
     "affiliateLink": "https://amzn.to/4cToQh0",
     "topDeal": true,
@@ -124,5 +124,6 @@
     ]
   }
 ]
+
 
 
