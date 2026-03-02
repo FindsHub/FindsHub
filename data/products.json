@@ -6,7 +6,7 @@
     "priceINR": 2298,
     "category": "wall-art",
     "images": [
-      "assets/images/wallart.jp",
+      "assets/images/wallart.jpg",
       "assets/images/wallart2.jpg",
       "assets/images/wallart3.jpg"
     ],
@@ -124,4 +124,5 @@
     ]
   }
 ]
+
 
