@@ -48,7 +48,7 @@
     "category": "decor",
     "images": [
       "assets/images/led.jpg",
-      "assets/images/led2.jpg"
+      "assets/images/led2.jpg",
       "assets/images/led3.jpg"
     ],
     "affiliateLink": "https://amzn.to/4cToQh0",
@@ -124,3 +124,4 @@
     ]
   }
 ]
+
