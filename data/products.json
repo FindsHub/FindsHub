@@ -6,9 +6,9 @@
     "priceINR": 645,
     "category": "textiles",
     "images": [
-      "[assets/images/trey.png]",
-      "[assets/images/trey2.png]",
-      "[assets/images/trey3.png]"
+      [assets/images/trey.png],
+      [assets/images/trey2.png],
+      [assets/images/trey3.png]
     ],
     "affiliateLink": "https://amzn.to/4aZWDCE",
     "topDeal": true,
@@ -29,9 +29,9 @@
     "priceINR": 626,
     "category": "decor",
     "images": [
-      "[assets/images/mattress.png]",
-      "[assets/images/mattress2.png]",
-      "[assets/images/mattress3.png]"
+      [assets/images/mattress.png],
+      [assets/images/mattress2.png],
+      [assets/images/mattress3.png]
     ],
     "affiliateLink": "https://amzn.to/3Nc2X22",
     "topDeal": true,
@@ -43,3 +43,4 @@
     ]
   }
 ]
+
