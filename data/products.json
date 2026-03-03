@@ -28,9 +28,9 @@
     "priceINR": 299,
     "category": "decor",
     "images": [
-      "assets/images/tiebacks.jpg",
-      "assets/images/tiebacks2.jpg",
-      "assets/images/tiebacks3.jpg"
+      "assets/images/tieback.jpg",
+      "assets/images/tieback2.jpg",
+      "assets/images/tieback3.jpg"
     ],
     "affiliateLink": "https://amzn.to/4aUbjol",
     "topDeal": false,
@@ -248,3 +248,4 @@
     ]
   }
 ]
+
