@@ -1,126 +1,62 @@
 [
   {
-    "id": "prod_1772478537300",
-    "title": "Stanley Dressing Table Engineered Wood",
-    "priceUSD": 57.82,
-    "priceINR": 4799,
+    "id": "prod_1772784283617",
+    "title": "Antique Wooden Fold-able table",
+    "priceUSD": 4.8,
+    "priceINR": 398,
     "category": "decor",
     "images": [
-      "assets/images/dressingtable.jpg",
-      "assets/images/dressingtable2.jpg",
-      "assets/images/dressingtable3.jpg"
+      "assets/images/table.jpg",
+      "assets/images/table2.jpg",
+      "assets/images/table3.jpg"
     ],
-    "affiliateLink": "https://amzn.to/3OIqXKF",
-    "topDeal": true,
-    "description": "This dressing unit enhances your daily routine while adding elegance to your room.Compact yet functional.",
-    "features": [
-      "PREMIUM BUILD",
-      "ELEGANT DESIGN",
-      "FULL-LENGTH MIRROR",
-      "SAFE & LONG-LASTING USE",
-      "WATER & TERMITE RESISTANT"
-    ]
-  },
-  {
-    "id": "prod_1772477850277",
-    "title": "Deco Window Magnetic Curtain Tiebacks",
-    "priceUSD": 3.6,
-    "priceINR": 299,
-    "category": "decor",
-    "images": [
-      "assets/images/tieback.jpg",
-      "assets/images/tieback2.jpg",
-      "assets/images/tieback3.jpg"
-    ],
-    "affiliateLink": "https://amzn.to/4aUbjol",
+    "affiliateLink": "https://amzn.to/40f7C6l",
     "topDeal": false,
-    "description": "Features powerful, durable magnets with a decorative woven rope design. Keeps curtains securely in place without slipping and adds a modern, elegant touch to your window decor.",
+    "description": "UDUH CRAFT's beautiful design table for living room Product Dimension L x B X H - (12 x 12 x 12) inch Home decor table help accentuate the style of your other living room furniture. Usually placed at the home it is a very important component of the overall look of your living room.Wooden table comfortable and durable. Made from seasoned mango wood with hand carved design.\n\n",
     "features": [
-      "Upgraded Strong Magnetic Hold",
-      "Heavy Duty & Durable Material",
-      "Adjustable & Fits All Curtain Types",
-      "Elegant Design"
+      "Wood Glossy Triangle End",
+      "1 Fold-able Stool",
+      "Collapsible"
     ]
   },
   {
-    "id": "prod_1772477562607",
-    "title": "Retro Bookcase Nightstand",
-    "priceUSD": 18.65,
-    "priceINR": 1548,
+    "id": "prod_1772783976313",
+    "title": "Crosscut Furniture Metal Floor Lamp with 3 Shelves",
+    "priceUSD": 20.47,
+    "priceINR": 1699,
     "category": "decor",
     "images": [
-      "assets/images/smalltable.jpg",
-      "assets/images/smalltable2.jpg",
-      "assets/images/smalltable3.jpg"
+      "assets/images/floorlamp.jpg",
+      "assets/images/floorlamp2.jpg",
+      "assets/images/floorlamp3.jpg"
     ],
-    "affiliateLink": "https://amzn.to/4u03uVz",
+    "affiliateLink": "https://amzn.to/3N18PLG",
     "topDeal": true,
-    "description": "This Retro end table can be used as a side table in the living room, bedroom, dining room, or entryway.",
+    "description": "This floor lamp comes with shelves, which increase its utility. It can be used as an organizer, bookshelf, or bedside table, and allows you to change the ambience according to different event and festival. You can Gift the surprise.",
     "features": [
-      "Versatile",
-      "Sturdy Construction",
-      "Compact Design",
-      "Multi-Purpose"
+      "Energy Efficient",
+      "Sleek tripod floor lamp style"
     ]
   },
   {
-    "id": "prod_1772477205454",
-    "title": "Artificial Vine Plants Falling",
-    "priceUSD": 2.93,
-    "priceINR": 243,
+    "id": "prod_1772783686443",
+    "title": "Cordless Table Lamp",
+    "priceUSD": 9.61,
+    "priceINR": 798,
     "category": "decor",
     "images": [
-      "assets/images/leaf.jpg",
-      "assets/images/leaf2.jpg",
-      "assets/images/leaf3.jpg"
+      "assets/images/lamp.jpg",
+      "assets/images/lamp2.jpg",
+      "assets/images/lamp.jpg"
     ],
-    "affiliateLink": "https://amzn.to/4uadRGu",
-    "topDeal": true,
-    "description": "Enhance your space with small potted artificial hanging plants designed for home décor, adding fresh charm to indoor areas with ready-to-use pots.",
-    "features": [
-      "Artificial plant leaves",
-      "Fresh look"
-    ]
-  },
-  {
-    "id": "prod_1772476892206",
-    "title": "Artificial Potted Plants in Wooden Pot",
-    "priceUSD": 4.48,
-    "priceINR": 372,
-    "category": "decor",
-    "images": [
-      "assets/images/smallplant.jpg",
-      "assets/images/smallplant2.jpg",
-      "assets/images/smallplant3.jpg"
-    ],
-    "affiliateLink": "https://amzn.to/4rMBZgE",
+    "affiliateLink": "https://amzn.to/4rdFA66",
     "topDeal": false,
-    "description": "Artificial potted plants leaves with pot is a perfect choice. No watering or sunlight, making it an ideal decorative solution for those seeking a hassle-free plant experience.",
+    "description": "Stylish LED table lamp, convenient cordless design, no rope obstruction, take it with you and place it anywhere you need to use it. The table lamp is moderate in size and does not take up visual space. Made of metal material for the lamp body, sturdy and durable. 3 Color Stepless Dimmable suitable for use while reading, working, studying, resting, can be placed on the dining table, bedroom, living room, balcony, patio, bar, camping and other places, home decor.",
     "features": [
-      "Easy Cleaning",
-      "Realistic Appeal",
-      "Compact Size"
-    ]
-  },
-  {
-    "id": "prod_1772476561559",
-    "title": "Plastic Mini Artificial Plants with Pot",
-    "priceUSD": 4.63,
-    "priceINR": 384,
-    "category": "decor",
-    "images": [
-      "assets/images/pot.jpg",
-      "assets/images/pot2.jpg",
-      "assets/images/pot3.jpg"
-    ],
-    "affiliateLink": "https://amzn.to/4b4C20c",
-    "topDeal": false,
-    "description": "Elevate your space with the Kuber Industries Mini Artificial Man-Shaped Plants. This set of 3 white faux succulent pots is the perfect modern home decor for your living room TV unit, office desk, or bookshelf. Designed for those who want the \"green look\" without the maintenance. Durable plastic, minimalist aesthetic, and uniquely shaped to spark conversation.",
-    "features": [
-      "Colour :\tWhite",
-      "Shape :\tPotted",
-      "Product Features :\tMan-shaped Pot",
-      "Design :     Versatile Design"
+      "Cordless Lamp Design",
+      "Touch Control and Adjustable",
+      "Portable and Stylish",
+      "Eye Protection"
     ]
   },
   {
@@ -248,4 +184,3 @@
     ]
   }
 ]
-
